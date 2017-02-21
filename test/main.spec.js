@@ -35,6 +35,9 @@ describe('env-bunyan', () => {
     });
 
     it('should pretty print on debug', () => {
+      process.stdout.isTTY = true;
+      process.stderr.isTTY = true;
+
       require('../src');
 
       expect(format).to.have.callCount(2);
