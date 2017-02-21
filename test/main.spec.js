@@ -14,7 +14,8 @@ describe('env-bunyan', () => {
     });
   });
 
-  describe('debug', () => {
+  describe('debug', function () {
+    this.timeout(5000);
     let format;
 
     after(() => {
