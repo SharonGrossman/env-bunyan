@@ -1,4 +1,4 @@
-# env-bunyan [![Build Status](https://travis-ci.org/sharongrossman/env-bunyan.svg?branch=master)](https://travis-ci.org/sharongrossman/env-bunyan)[![Coverage Status](https://coveralls.io/repos/github/sharongrossman/env-bunyan/badge.svg?branch=master)](https://coveralls.io/github/sharongrossman/env-bunyan?branch=master)
+# env-bunyan [![Build Status](https://travis-ci.org/SharonGrossman/env-bunyan.svg?branch=master)](https://travis-ci.org/SharonGrossman/env-bunyan)[![Coverage Status](https://coveralls.io/repos/github/SharonGrossman/env-bunyan/badge.svg?branch=master)](https://coveralls.io/github/SharonGrossman/env-bunyan?branch=master)
 Bunyan wrapper with environment variables
 
 ## Installation
